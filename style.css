@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#page1{
+    position: relative;
+    background-image: url("./assets/img_parallax.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    font-size: 150%; 
+}
+
+#section1{
+    opacity: 1;
+    position: relative;
+    top: 45%;
+    left: 43%;
+    padding: 1%; 
+    background-color: #111;
+    height: 4%;
+    width: 10rem;   
+    border-radius: 3%;
+}
+
+h3{
+    color: #fff;
+    opacity: 1;
+}
+
+#page2{
+    position: relative;
+    background-image: url("./assets/img_parallax2.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    background-attachment: fixed;
+    height: 48vh;
+    width: 100%;    
+}
+
+#section2{
+    position: relative;
+    opacity: 1;
+    color: #777;
+    background-color: #fff;
+    height: 23rem;
+    width: 100%;
+    font-size: 150%;
+}
+#section3{
+    position: relative;
+    opacity: 1;
+    color: #777;
+    background-color: #282E34;
+    height: 12rem;
+    width: 100%;
+    font-size: 150%;
+}
+#page3{
+    position: relative;
+    background-image: url("./assets/img_parallax3.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 48vh;
+    width: 100%; 
+    font-size: 150%;   
+}
+
+#section4{
+    color: #777;
+    background-color:#282E34;
+    height: 12rem;
+    width: 100%;
+    font-size: 150%;
+}
+
+#page4{
+    position: relative;
+    background-image: url("./assets/img_parallax.jpg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    font-size: 150%; 
+}
+
+#section5{
+    position: relative;
+    top: 45%;
+    left: 43%;
+    padding: 1%; 
+    color: #fff;
+    background-color: #111;
+    height: 4%;
+    width: 10rem;   
+    border-radius: 3%;
+}
